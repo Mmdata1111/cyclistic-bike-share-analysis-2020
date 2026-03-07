@@ -4,7 +4,7 @@ Author: Maia Perun
 
 ## Project Overview
 
-This project analyzes Cyclistic’s 2020 bike-share data to identify behavioral differences between casual riders and annual members and evaluate opportunities for membership conversion.
+This project analyzes Cyclistic’s 2020 bike-share data to identify behavioral differences between casual riders and annual members and generate data-driven marketing recommendations aimed at increasing annual memberships.
 
 ---
 
@@ -14,27 +14,27 @@ This project analyzes Cyclistic’s 2020 bike-share data to identify behavioral 
 
 ---
 
+## Table of Contents
+
+- [Case Study Background](#case-study-background)
+- [Business Task](#business-task)
+- [Dataset](#dataset)
+- [Tools Used](#tools-used)
+- [Analysis Workflow](#analysis-workflow)
+- [Key Insights](#key-insights)
+- [Business Recommendations](#business-recommendations)
+- [Tableau Dashboard](#tableau-dashboard)
+- [Project Files](#project-files)
+- [Data Source](#data-source)
+
+---
+
 ## Case Study Background
 
 This project is based on the Cyclistic bike-share case study from the Google Data Analytics Professional Certificate. Cyclistic is a fictional company in Chicago that operates a bike-share program with several types of bicycles including traditional bikes, reclining bikes, hand tricycles, and cargo bikes.
 The marketing analytics team wants to increase the number of annual members because membership customers are more profitable than casual riders. This analysis explores behavioral differences between casual riders and annual members in order to identify data-driven strategies that could help convert casual riders into annual members.
 
 ---
-
-## Table of Contents
-
-- Case Study Background
-- Business Task
-- Dataset
-- Tools Used
-- Analysis Workflow
-- Key Insights
-- Business Recommendations
-- Tableau Dashboard
-- Project Files
-- Data Source
-
-  ---
 
 ## Business Task
 
@@ -138,6 +138,7 @@ documentation/data_dictionary.md – Dataset column definitions
 Dataset: Divvy Bike Share Data (Cyclistic case study)
 Source: Motivate International Inc.
 This dataset is made available for analysis under public data usage guidelines.
+
 
 
 
