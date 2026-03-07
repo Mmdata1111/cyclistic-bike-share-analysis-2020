@@ -100,9 +100,13 @@ Total records analyzed:
 ## Business Recommendations
 
 Based on the analysis, several strategies can help convert casual riders into annual members: 
-• Target casual riders with marketing campaigns during peak recreational seasons such as summer. 
+
+• Target casual riders with marketing campaigns during peak recreational seasons such as summer.
+
 • Promote membership plans near recreational and tourist-heavy stations. 
+
 • Offer limited-time membership discounts to frequent casual riders. 
+
 • Use digital marketing campaigns emphasizing the cost savings of annual membership for regular riders.
 
 ---
@@ -134,6 +138,7 @@ documentation/data_dictionary.md – Dataset column definitions
 Dataset: Divvy Bike Share Data (Cyclistic case study)
 Source: Motivate International Inc.
 This dataset is made available for analysis under public data usage guidelines.
+
 
 
 
