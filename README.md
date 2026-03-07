@@ -2,18 +2,41 @@
 
 Author: Maia Perun  
 
+## Project Overview
+
 This project analyzes Cyclistic’s 2020 bike-share data to identify behavioral differences between casual riders and annual members and evaluate opportunities for membership conversion.
 
 ---
 
-# Business Task
+## Case Study Background
 
-Cyclistic's marketing team wants to convert casual riders into annual members.  
-This analysis explores behavioral differences between rider types to identify potential strategies for membership conversion.
+This project is based on the Cyclistic bike-share case study from the Google Data Analytics Professional Certificate. Cyclistic is a fictional company in Chicago that operates a bike-share program with several types of bicycles including traditional bikes, reclining bikes, hand tricycles, and cargo bikes.
+The marketing analytics team wants to increase the number of annual members because membership customers are more profitable than casual riders. This analysis explores behavioral differences between casual riders and annual members in order to identify data-driven strategies that could help convert casual riders into annual members.
 
 ---
 
-# Dataset
+## Table of Contents
+
+- Case Study Background
+- Business Task
+- Dataset
+- Tools Used
+- Analysis Workflow
+- Key Insights
+- Business Recommendations
+- Tableau Dashboard
+- Project Files
+- Data Source
+
+  ---
+
+## Business Task
+
+The objective of this analysis is to understand how casual riders and annual members use Cyclistic bikes differently in order to identify strategies that can convert casual riders into annual members. This analysis explores behavioral differences between rider types to identify potential strategies for membership conversion.
+
+---
+
+## Dataset
 
 The dataset contains 12 months of Cyclistic bike share trips from 2020.
 
@@ -35,7 +58,7 @@ Total records analyzed:
 - time_of_day
 ---
 
-# Tools Used
+## Tools Used
 
 - Excel
 - Google BigQuery (SQL)
@@ -54,7 +77,7 @@ Total records analyzed:
 
 ---
 
-# Key Insights
+## Key Insights
 
 • Members account for approximately 61% of total rides.  
 
@@ -68,7 +91,13 @@ Total records analyzed:
 
 ---
 
-# Tableau Dashboard
+## Business Recommendations
+
+Based on the analysis, several strategies can help convert casual riders into annual members: • Target casual riders with marketing campaigns during peak recreational seasons such as summer. • Promote membership plans near recreational and tourist-heavy stations. • Offer limited-time membership discounts to frequent casual riders. • Use digital marketing campaigns emphasizing the cost savings of annual membership for regular riders.
+
+---
+
+## Tableau Dashboard
 
 Interactive dashboard available here:
 
@@ -76,7 +105,7 @@ https://public.tableau.com/app/profile/maia.perun/viz/CyclisticBikeShareAnalysis
 
 ---
 
-# Project Files
+## Project Files
 
 Cyclistic_Bike_Share_2020_Report.pdf – Full analysis report  
 
@@ -90,8 +119,9 @@ documentation/data_dictionary.md – Dataset column definitions
 
 ---
 
-# Data Source
+## Data Source
 
 Dataset: Divvy Bike Share Data (Cyclistic case study)
 Source: Motivate International Inc.
 This dataset is made available for analysis under public data usage guidelines.
+
