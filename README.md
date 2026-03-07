@@ -16,6 +16,8 @@ This project analyzes Cyclistic’s 2020 bike-share data to identify behavioral 
 
 ## Table of Contents
 
+- [Project Overview](#project-overview)
+- [Dashboard Preview](#dashboard-preview)
 - [Case Study Background](#case-study-background)
 - [Business Task](#business-task)
 - [Dataset](#dataset)
@@ -138,6 +140,7 @@ documentation/data_dictionary.md – Dataset column definitions
 Dataset: Divvy Bike Share Data (Cyclistic case study)
 Source: Motivate International Inc.
 This dataset is made available for analysis under public data usage guidelines.
+
 
 
 
