@@ -8,6 +8,12 @@ This project analyzes Cyclistic’s 2020 bike-share data to identify behavioral 
 
 ---
 
+## Dashboard Preview
+
+![Cyclistic Dashboard](cyclistic_dashboard_preview.png)
+
+---
+
 ## Case Study Background
 
 This project is based on the Cyclistic bike-share case study from the Google Data Analytics Professional Certificate. Cyclistic is a fictional company in Chicago that operates a bike-share program with several types of bicycles including traditional bikes, reclining bikes, hand tricycles, and cargo bikes.
@@ -124,4 +130,5 @@ documentation/data_dictionary.md – Dataset column definitions
 Dataset: Divvy Bike Share Data (Cyclistic case study)
 Source: Motivate International Inc.
 This dataset is made available for analysis under public data usage guidelines.
+
 
